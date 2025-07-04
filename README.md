@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-**Terrain Classifier** is an Android application that uses an integrated `.tflite` model to classify terrain images in real-time. The app can analyze input from the device camera or from gallery images to predict the terrain type with high accuracy.
+**GetRecT** is an Android application that uses an integrated `.tflite` model to classify terrain images in real-time. The app can analyze input from the device camera or from gallery images to predict the terrain type with high accuracy.
 
 ---
 

@@ -42,5 +42,5 @@ Below are some screenshots showcasing the functionality of the app:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/SiddharthGorai/GetRecT)
+   cd GetRecT

@@ -1,4 +1,4 @@
-# 📱 GetRecT (Get Recognised Terrain) – Android App for Terrain Recognition.
+# 📱 GetRecT (Get Recognised Terrain) – Android App for Terrain Recognition
 
 ## 🚀 Overview
 
